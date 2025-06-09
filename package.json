@@ -1,0 +1,13 @@
+{
+  "name": "freddy-bot6final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.2",
+    "@hapi/boom": "^11.1.4"
+  }
+}
